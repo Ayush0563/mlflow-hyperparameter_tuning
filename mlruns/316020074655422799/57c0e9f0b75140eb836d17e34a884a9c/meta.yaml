@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/hyperparameter/mlruns/316020074655422799/57c0e9f0b75140eb836d17e34a884a9c/artifacts
+end_time: 1727187533538
+entry_point_name: ''
+experiment_id: '316020074655422799'
+lifecycle_stage: active
+run_id: 57c0e9f0b75140eb836d17e34a884a9c
+run_name: respected-carp-445
+run_uuid: 57c0e9f0b75140eb836d17e34a884a9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727187533484
+status: 3
+tags: []
+user_id: maury

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/hyperparameter/mlruns/316020074655422799/df3307be6b2d4d9980eb432294504fbb/artifacts
+end_time: 1727187533291
+entry_point_name: ''
+experiment_id: '316020074655422799'
+lifecycle_stage: active
+run_id: df3307be6b2d4d9980eb432294504fbb
+run_name: efficient-lynx-752
+run_uuid: df3307be6b2d4d9980eb432294504fbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727187533246
+status: 3
+tags: []
+user_id: maury

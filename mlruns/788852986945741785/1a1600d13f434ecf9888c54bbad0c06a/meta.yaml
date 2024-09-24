@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/hyperparameter/mlruns/788852986945741785/1a1600d13f434ecf9888c54bbad0c06a/artifacts
+end_time: 1727185386595
+entry_point_name: ''
+experiment_id: '788852986945741785'
+lifecycle_stage: active
+run_id: 1a1600d13f434ecf9888c54bbad0c06a
+run_name: dapper-bee-931
+run_uuid: 1a1600d13f434ecf9888c54bbad0c06a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727185385981
+status: 4
+tags: []
+user_id: maury

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/hyperparameter/mlruns/788852986945741785/07c9fe1976604f8fa82d13e0681d0154/artifacts
+end_time: 1727185827656
+entry_point_name: ''
+experiment_id: '788852986945741785'
+lifecycle_stage: active
+run_id: 07c9fe1976604f8fa82d13e0681d0154
+run_name: bustling-fish-567
+run_uuid: 07c9fe1976604f8fa82d13e0681d0154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727185820410
+status: 3
+tags: []
+user_id: maury

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/hyperparameter/mlruns/316020074655422799/7752fa157fdf4b459653cf12b0ec20fa/artifacts
+end_time: 1727187533477
+entry_point_name: ''
+experiment_id: '316020074655422799'
+lifecycle_stage: active
+run_id: 7752fa157fdf4b459653cf12b0ec20fa
+run_name: thundering-conch-943
+run_uuid: 7752fa157fdf4b459653cf12b0ec20fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727187533426
+status: 3
+tags: []
+user_id: maury

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/hyperparameter/mlruns/316020074655422799/58afe99eb3d6491bb941fa9c021af712/artifacts
+end_time: 1727187532952
+entry_point_name: ''
+experiment_id: '316020074655422799'
+lifecycle_stage: active
+run_id: 58afe99eb3d6491bb941fa9c021af712
+run_name: unleashed-steed-939
+run_uuid: 58afe99eb3d6491bb941fa9c021af712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727187532891
+status: 3
+tags: []
+user_id: maury

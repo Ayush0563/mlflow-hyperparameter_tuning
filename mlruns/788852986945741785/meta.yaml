@@ -1,0 +1,6 @@
+artifact_location: file:///D:/MLops/hyperparameter/mlruns/788852986945741785
+creation_time: 1727183364855
+experiment_id: '788852986945741785'
+last_update_time: 1727183364855
+lifecycle_stage: active
+name: daibetes-rf-hp

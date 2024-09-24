@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/hyperparameter/mlruns/788852986945741785/8cfa61b3ff404f199a1a2b3b58a4a8bc/artifacts
+end_time: 1727183523063
+entry_point_name: ''
+experiment_id: '788852986945741785'
+lifecycle_stage: active
+run_id: 8cfa61b3ff404f199a1a2b3b58a4a8bc
+run_name: angry-lark-246
+run_uuid: 8cfa61b3ff404f199a1a2b3b58a4a8bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727183510588
+status: 3
+tags: []
+user_id: maury

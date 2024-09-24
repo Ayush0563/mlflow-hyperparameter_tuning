@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/hyperparameter/mlruns/316020074655422799/3da9236298de4e67a37a382f93f7fa0d/artifacts
+end_time: 1727187533066
+entry_point_name: ''
+experiment_id: '316020074655422799'
+lifecycle_stage: active
+run_id: 3da9236298de4e67a37a382f93f7fa0d
+run_name: unleashed-lamb-386
+run_uuid: 3da9236298de4e67a37a382f93f7fa0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727187533018
+status: 3
+tags: []
+user_id: maury

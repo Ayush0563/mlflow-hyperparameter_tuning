@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/hyperparameter/mlruns/316020074655422799/3826afca775c4895bf99ee16441ea760/artifacts
+end_time: 1727187533608
+entry_point_name: ''
+experiment_id: '316020074655422799'
+lifecycle_stage: active
+run_id: 3826afca775c4895bf99ee16441ea760
+run_name: sassy-dog-858
+run_uuid: 3826afca775c4895bf99ee16441ea760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727187533554
+status: 3
+tags: []
+user_id: maury

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/hyperparameter/mlruns/788852986945741785/da07d9f89e484c5bba4eee6d202d04e5/artifacts
+end_time: 1727183862339
+entry_point_name: ''
+experiment_id: '788852986945741785'
+lifecycle_stage: active
+run_id: da07d9f89e484c5bba4eee6d202d04e5
+run_name: suave-croc-61
+run_uuid: da07d9f89e484c5bba4eee6d202d04e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727183851747
+status: 3
+tags: []
+user_id: maury

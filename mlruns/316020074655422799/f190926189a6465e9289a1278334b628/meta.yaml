@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/hyperparameter/mlruns/316020074655422799/f190926189a6465e9289a1278334b628/artifacts
+end_time: 1727187533362
+entry_point_name: ''
+experiment_id: '316020074655422799'
+lifecycle_stage: active
+run_id: f190926189a6465e9289a1278334b628
+run_name: gentle-snipe-870
+run_uuid: f190926189a6465e9289a1278334b628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727187533298
+status: 3
+tags: []
+user_id: maury

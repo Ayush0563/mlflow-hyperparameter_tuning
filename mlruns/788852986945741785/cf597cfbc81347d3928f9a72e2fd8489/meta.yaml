@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/hyperparameter/mlruns/788852986945741785/cf597cfbc81347d3928f9a72e2fd8489/artifacts
+end_time: 1727183370850
+entry_point_name: ''
+experiment_id: '788852986945741785'
+lifecycle_stage: active
+run_id: cf597cfbc81347d3928f9a72e2fd8489
+run_name: blushing-kit-772
+run_uuid: cf597cfbc81347d3928f9a72e2fd8489
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727183365767
+status: 4
+tags: []
+user_id: maury
